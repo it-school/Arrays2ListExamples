@@ -11,6 +11,7 @@ public class Persons {
     ArrayList<Person> list2;
     private Person[] list;
 
+    
     public Persons() {
         this.list = new Person[0];
         this.list2 = new ArrayList<>();
